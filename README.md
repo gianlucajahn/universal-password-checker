@@ -1,4 +1,4 @@
-## Universal Password Checker
+### Universal Password Checker
 This is a universal password checker that lets you check if the password that is being entered is considered "strong" and also tells you how many characters have to be edited/added/removed for it to be considered strong, if it's not. 
 
 ## Why "Universal"?
