@@ -4,6 +4,7 @@
 <p align="center">
   Password checker available in 13 languages
 </p>
+<br/>
 
 This is a universal password checker available in 13 programming languages that lets you check if the password that is being entered is considered "strong" and also tells you how many steps are left for it to be considered strong, if it's not. 
 
