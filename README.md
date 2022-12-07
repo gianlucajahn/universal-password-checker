@@ -29,4 +29,4 @@ Any given password is considered strong if all of the following parameter are fu
 - the password does not have the same letter any more than 2 times in a row
 
 ### How?
-This algorythm was built with the help of [OpenAI](https://openai.com)'s [ChatGPT](https://chat.openai.com/chat) AI. ChatGPT helped me convert this code that has originally being written in Java into the other 12 programming languages. 
+This algorythm was built with the help of [OpenAI](https://openai.com)'s [ChatGPT](https://chat.openai.com/chat) AI. ChatGPT helped me convert this code that was originally written in Java into the other 12 programming languages. 
