@@ -1,6 +1,5 @@
 <h1 align="center">Universal Password Checker</h1>
 
-![](snippet.png)
 <p align="center">
   Password checker available in 13 languages
 </p>
